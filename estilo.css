@@ -1,0 +1,121 @@
+body {
+    background-color: rgb(242, 242, 242);
+}
+
+
+a {
+    background-color: white;
+    justify-content: space-between;
+    color: #430000;
+    text-decoration: unset;
+    font-size: 20px;
+    font-style;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#navbar {
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+
+#conteudo {
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+#gama-news {
+    background-color:#430000;
+    width: 100%;
+    height: 50px;
+    margin: unset;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 15px;
+}
+
+
+    
+
+
+#imgBanner {
+    
+    width: 100%;
+    
+}
+
+
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    padding-left: 2%;
+    color: black;
+    background-color: #ffcaca;
+}
+
+p {
+    display: flex;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: 4%;
+
+}
+
+.continue-lendo {
+    margin-top: -40px;
+    color:#430000;
+    font-weight: bold;
+    margin-left: 2px;
+}
+
+#container {
+    text-align: center;
+}
+
+#rodape {
+    background-color: #430000;
+    height: 90px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    
+    
+    
+    
+}
+
+.criador {
+    background-color: #430000;
+    color: white;
+    font-size: 17px;
+}
+
+.cleiber {
+    border-radius: 50%;
+}
