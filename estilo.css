@@ -26,6 +26,7 @@ a {
     margin-right: 5%;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
+
 }
 
 
@@ -164,4 +165,12 @@ button {
     box-shadow: gray 2px 2px 5px;
     border-radius: 10%;
 
+}
+
+#fontes {
+    margin-top: 40px;
+}
+.referencia {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
 }
